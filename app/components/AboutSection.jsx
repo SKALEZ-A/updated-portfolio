@@ -54,16 +54,20 @@ const AboutSection = () => {
   return (
     <section className="text-white mt-8 py-6">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16 ">
-        <Image src={profile} className="w-[250px] h-[250px] rounded-2xl" />
+        <Image
+          alt="profile"
+          src={profile}
+          className="w-[250px] h-[250px] rounded-2xl"
+        />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4 ">About Me</h2>
           <p className="text-sm md:text-md text=[#ADB7BE] lg:text-lg">
-            👋I'm [Your Name], a blockchain developer and DeFi enthusiast with a
+            👋I&apos;m Skalez, a blockchain developer and DeFi enthusiast with a
             knack for building secure smart contracts and Crafting intuitive and
             captivating user interfaces is my forte, ensuring smooth
-            interactions with blockchain systems.. I'm passionate about DeFi's
-            potential and eager to collaborate with startups and fellow devs to
-            shape the future. Let's connect! 🌐
+            interactions with blockchain systems.. I&apos;m passionate about
+            DeFi&apos;s potential and eager to collaborate with startups and
+            fellow devs to shape the future. Let&apos;s connect! 🌐
           </p>
           <div className="flex flex-row mt-8 ">
             <TabButton

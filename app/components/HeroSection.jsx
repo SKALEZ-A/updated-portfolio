@@ -17,7 +17,7 @@ const HeroSection = () => {
         >
           <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-6xl lg:leading-normal font-extrabold">
             <span className="text-transparent bg-clip-text bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500">
-              Hello, I'm Skalez,
+              Hello, I&apos;m Skalez,
             </span>
             a<br></br>
             <TypeAnimation
@@ -49,7 +49,7 @@ const HeroSection = () => {
               Hire Me
             </button>
             <button className=" sm:w-fit  px-1 py-1 rounded-full bg-transparent hover:bg-slate-700  bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 mt-3">
-              {/* <Link href={"CVPage.jsx"}> */}
+              {/* <Link href="/CVPage.jsx"> */}
               <span className="text-white block bg-[#121212] hover:bg-slate-800 rounded-full py-2 px-5  ">
                 Download CV{" "}
               </span>

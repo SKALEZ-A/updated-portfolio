@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="border footer z-10 border-t-[#33353F] ">
       <div className="container p-3 flex justify-between items-center">
         <span className="">
-          <Image src={logo} className="cursor-pointer w-28" />
+          <Image src={logo} className="cursor-pointer w-28" alt="footer-logo" />
         </span>
         <p className="text-slate-500">All rights reserved.</p>
       </div>
