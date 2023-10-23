@@ -30,8 +30,6 @@ const HeroSection = () => {
                 1000,
                 "defi analyst.",
                 1000,
-                "gold digger ⚱️🌟",
-                1000,
               ]}
               wrapper="span"
               speed={50}
