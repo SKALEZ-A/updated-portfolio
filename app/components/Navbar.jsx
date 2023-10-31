@@ -27,8 +27,8 @@ const Navbar = () => {
   return (
     <nav className="fixed mx-auto border border-[#33353F] top-0 left-0 right-0 z-10 bg-[#0a0a0a] bg-opacity-90 ">
       <div className="flex flex-wrap items-center justify-between mx-auto px-4 py-0">
-        <Link href={"/"} className="text-5xl text-white font-semibold">
-          <Image src={logo} className="w-32 cursor-pointer" />
+        <Link href={"/"} className=" text-white font-semibold">
+          <Image src={logo} className="w-28 cursor-pointer" />
         </Link>
         {/* ========== for mobile menu =========== */}
         <div className="mobile-menu block md:hidden">
