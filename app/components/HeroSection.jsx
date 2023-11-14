@@ -28,6 +28,9 @@ const HeroSection = () => {
                 1000,
                 "0xFE2c6B2c8db15F38F0b5C8a424feF3B2aEe7793a.",
                 1000,
+                                "WEBSITE UNDER CONSTRUCTION TO BE UPDATED TONIGHT .",
+                1000,
+
                 "ERROR 404.",
                 1000,
               ]}
