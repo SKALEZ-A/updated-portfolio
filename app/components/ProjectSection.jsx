@@ -45,6 +45,16 @@ const ProjectsData = [
     gitUrl: "https://github.com/SKALEZ-A/Web3-Wallet-sample",
     previewUrl: "https://web3-wallet-sample.vercel.app",
   },
+  {
+    id: 5,
+    title: "Avatar Airdrop Protocol",
+    description:
+      "A comprehensive real-world project that allows users to claim $avatar token with a fee after completing specific tasks, the token gets sent to their wallet, allowing users to also refer other users and get token rewards.",
+    image: "/images/projects/avatarproject.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/",
+    previewUrl: "https://avatar-project-ochre.vercel.app/",
+  },
 ];
 
 const ProjectSection = () => {

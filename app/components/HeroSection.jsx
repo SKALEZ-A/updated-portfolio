@@ -19,19 +19,19 @@ const HeroSection = () => {
             <span className="text-transparent bg-clip-text bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500">
               Hello, I&apos;m Skalez,
             </span>
-            a<br></br>
+            I<br></br>
             <TypeAnimation
               sequence={[
                 // Same substring at the start will only be typed out once, initially
 
-                "WEBSITE UNDER CONSTRUCTION TO BE UPDATED TONIGHT .",
+                "Develop user-friendly visuals, user interfaces and web applications",
                 1000,
-                "0xFE2c6B2c8db15F38F0b5C8a424feF3B2aEe7793a.",
+                "create contents on crypto and defi",
                 1000,
-                                "WEBSITE UNDER CONSTRUCTION TO BE UPDATED TONIGHT .",
+                "write about the blockchain",
                 1000,
 
-                "ERROR 404.",
+                "write and audit smart contracts",
                 1000,
               ]}
               wrapper="span"
